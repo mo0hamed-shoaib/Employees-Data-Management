@@ -1,0 +1,1 @@
+Add, sort, and filter employees data, based on how many employees you want to add, you will be prompted to add their => Name, Age, Department, and Salary. It can filter for the highest salary in each department, and can sort by Name, age, or Department. There's data validation on everything to ensure data is correct. Tech Stack => JavaScript ES5
